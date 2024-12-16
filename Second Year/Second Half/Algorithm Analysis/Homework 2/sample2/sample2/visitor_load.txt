@@ -1,0 +1,11 @@
+LandmarkName	VisitorLoad
+Hotel	0.0
+Museum	0.5
+Tower	0.3
+Park	0.7
+Cinema	0.4
+Shop	0.8
+Bazaar	0.5
+Mosque	0.6
+Palace	0.2
+Harbor	0.1

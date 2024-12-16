@@ -1,0 +1,5 @@
+LandmarkName	PersonalInterest
+Hotel	1.0
+Museum	0.8
+Tower	0.5
+Park	0.9

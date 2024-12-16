@@ -1,0 +1,11 @@
+LandmarkName	PersonalInterest
+Hotel	1.0
+Museum	0.8
+Tower	0.5
+Park	0.9
+Cinema	0.4
+Shop	0.6
+Bazaar	0.1
+Mosque	0.2
+Palace	0.3
+Harbor	0.7
