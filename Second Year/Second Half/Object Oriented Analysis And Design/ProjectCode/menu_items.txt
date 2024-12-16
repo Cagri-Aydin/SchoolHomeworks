@@ -1,0 +1,53 @@
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Kahve,50.0,1
+Tavuk Çorbası,160.0,1
+Sütlaç,90.0,1
+Sütlaç,90.0,1
+Humus,150.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Sütlaç,90.0,1
+Zeytinyağlı Yaprak Sarma,175.0,1
+Çay,25.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Tavuk Çorbası,160.0,1
+Su,25.0,1
+Su,25.0,1
+Su,25.0,1
+Su,25.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Domates Çorbası,140.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1
+Pide,150.0,1

@@ -1,0 +1,5 @@
+ID: 7, Table: 2, Item: Domates Çorbası, Price: 140.0, Quantity: 1, Special Requests: 
+ID: 8, Table: 2, Item: Domates Çorbası, Price: 140.0, Quantity: 1, Special Requests: 
+ID: 9, Table: 2, Item: Sütlaç, Price: 90.0, Quantity: 1, Special Requests: 
+ID: 12, Table: 1, Item: Baklava, Price: 100.0, Quantity: 1, Special Requests: 
+ID: 13, Table: 1, Item: Baklava, Price: 100.0, Quantity: 1, Special Requests: 
